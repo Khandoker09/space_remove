@@ -1,0 +1,5 @@
+setup.py
+space_remover.egg-info/PKG-INFO
+space_remover.egg-info/SOURCES.txt
+space_remover.egg-info/dependency_links.txt
+space_remover.egg-info/top_level.txt
